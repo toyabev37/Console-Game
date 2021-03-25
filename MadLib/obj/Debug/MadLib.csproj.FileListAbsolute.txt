@@ -1,0 +1,7 @@
+C:\Users\latoy\source\repos\MadLib\MadLib\bin\Debug\MadLib.exe.config
+C:\Users\latoy\source\repos\MadLib\MadLib\bin\Debug\MadLib.exe
+C:\Users\latoy\source\repos\MadLib\MadLib\bin\Debug\MadLib.pdb
+C:\Users\latoy\source\repos\MadLib\MadLib\obj\Debug\MadLib.csprojAssemblyReference.cache
+C:\Users\latoy\source\repos\MadLib\MadLib\obj\Debug\MadLib.csproj.CoreCompileInputs.cache
+C:\Users\latoy\source\repos\MadLib\MadLib\obj\Debug\MadLib.exe
+C:\Users\latoy\source\repos\MadLib\MadLib\obj\Debug\MadLib.pdb

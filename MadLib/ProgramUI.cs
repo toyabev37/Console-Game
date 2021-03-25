@@ -11,7 +11,7 @@ namespace MadLib
       
         public void Run()
         {
-            
+            //starting game
             RunMenu();
         }
         private void RunMenu()
